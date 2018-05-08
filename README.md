@@ -7,4 +7,5 @@ Simulated the post office situation with the help of semaphores and threads. C p
 Steps to execute:
 
 Compile: gcc proj_2.c -lpthread
+
 Run: ./a.out
